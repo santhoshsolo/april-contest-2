@@ -1,0 +1,21 @@
+*{
+   background-color: black; 
+   color: #fff;
+}
+
+#container {
+    text-align: center;
+}
+
+#middle {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 0 10px;
+}
+
+#error-message {
+    margin-top: 10px;
+}   
